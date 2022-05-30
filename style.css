@@ -1,0 +1,39 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    background:#eee;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.container{
+    width:96%;
+    margin:20px auto;
+}
+.Book{
+    width:48%;
+    float:left;
+    background:#fff;
+    margin:5px;
+    padding:10px;
+}
+.icon{
+    width:15%;
+    float:left;
+    line-height: 120px;
+}
+button{
+    background:#00FF7F;
+    border-radius: 7px;
+    padding: 6px 6px;
+    color:#fff;
+    float:right;
+    cursor: pointer;
+}
+.content{
+    margin-inline-start: 5px;
+    padding-left: 5px;
+    text-align: right;
+}
+
